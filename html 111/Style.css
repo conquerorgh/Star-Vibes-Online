@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+ img {
+    width: 130px;
+    height: 150px;
+}
+
+.search-bar{
+    margin-left: 50px;
+}
+
